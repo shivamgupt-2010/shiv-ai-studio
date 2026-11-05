@@ -1,0 +1,16 @@
+{
+  "name": "SHIV AI Sovereign Studio",
+  "short_name": "SHIV AI",
+  "description": "Sovereign Multimodal Artificial Intelligence Platform by SHIV Systems",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07090e",
+  "theme_color": "#07090e",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
